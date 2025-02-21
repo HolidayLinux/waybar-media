@@ -1,3 +1,4 @@
+A fork of https://github.com/yurihs/waybar-media
 # waybar-media
 
 A module to display currently playing media in your [Waybar](https://github.com/Alexays/Waybar).
